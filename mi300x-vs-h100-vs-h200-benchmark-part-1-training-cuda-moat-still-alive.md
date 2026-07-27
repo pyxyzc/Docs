@@ -12,9 +12,9 @@ SemiAnalysis has been on a five-month long quest to settle the reality of MI300X
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!mIIy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76cfa222-48b8-4151-9fa9-254179b08aa6_2184x1088.jpeg)
+![](./imgs/76cfa222-48b8-4151-9fa9-254179b08aa6_2184x1088.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!mIIy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76cfa222-48b8-4151-9fa9-254179b08aa6_2184x1088.jpeg)
+](./imgs/76cfa222-48b8-4151-9fa9-254179b08aa6_2184x1088.jpeg)
 
 Source: SemiAnalysis, Nvidia, AMD
 
@@ -61,9 +61,9 @@ Thank you to [Crusoe](https://crusoe.ai/cloud), [TensorWave](https://tensorwav
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!3_1p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd9ce744-8e42-4b9a-9120-22ff0192a3f9_2354x1244.png)
+![](./imgs/fd9ce744-8e42-4b9a-9120-22ff0192a3f9_2354x1244.png)
 
-](https://substackcdn.com/image/fetch/$s_!3_1p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd9ce744-8e42-4b9a-9120-22ff0192a3f9_2354x1244.png)
+](./imgs/fd9ce744-8e42-4b9a-9120-22ff0192a3f9_2354x1244.png)
 
 Source: SemiAnalysis
 
@@ -119,9 +119,9 @@ The MI300X launched in late 2023 with an exciting set of on paper specifications
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!ZbMT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc456bf40-8aa2-4d89-b666-8d062323d41e_2184x1088.jpeg)
+![](./imgs/c456bf40-8aa2-4d89-b666-8d062323d41e_2184x1088.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!ZbMT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc456bf40-8aa2-4d89-b666-8d062323d41e_2184x1088.jpeg)
+](./imgs/c456bf40-8aa2-4d89-b666-8d062323d41e_2184x1088.jpeg)
 
 Source: SemiAnalysis, Nvidia, AMD
 
@@ -142,9 +142,9 @@ GEMMs take two input matrices, Matrix A and Matrix B, with Matrix A having the s
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!HK0B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20b7820c-407a-4ce5-9311-33e1d9b41533_1499x1404.png)
+![](./imgs/20b7820c-407a-4ce5-9311-33e1d9b41533_1499x1404.png)
 
-](https://substackcdn.com/image/fetch/$s_!HK0B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20b7820c-407a-4ce5-9311-33e1d9b41533_1499x1404.png)
+](./imgs/20b7820c-407a-4ce5-9311-33e1d9b41533_1499x1404.png)
 
 Source: Nvidia
 
@@ -152,9 +152,9 @@ Conceptually, each element of the resulting matrix is a sum of element-wise mult
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!TwVU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F096e0e89-9404-49dd-88c2-18a86a0cf06b_1875x684.png)
+![](./imgs/096e0e89-9404-49dd-88c2-18a86a0cf06b_1875x684.png)
 
-](https://substackcdn.com/image/fetch/$s_!TwVU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F096e0e89-9404-49dd-88c2-18a86a0cf06b_1875x684.png)
+](./imgs/096e0e89-9404-49dd-88c2-18a86a0cf06b_1875x684.png)
 
 Source: SemiAnalysis
 
@@ -181,9 +181,9 @@ This means that, despite a much higher marketed BF16 TFLOP/s, the MI300X is 14% 
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!SrHc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F709f1dbd-d014-4737-b865-fdb53edf252d_1489x1084.png)
+![](./imgs/709f1dbd-d014-4737-b865-fdb53edf252d_1489x1084.png)
 
-](https://substackcdn.com/image/fetch/$s_!SrHc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F709f1dbd-d014-4737-b865-fdb53edf252d_1489x1084.png)
+](./imgs/709f1dbd-d014-4737-b865-fdb53edf252d_1489x1084.png)
 
 Source: SemiAnalysis
 
@@ -191,9 +191,9 @@ Unfortunately, the story is worse for FP8. The H100/H200 achieves ~1,280 TFLOP/s
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!Da2e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc5d7c11-6a1f-458d-9e3e-dd6e1624363e_1514x1152.png)
+![](./imgs/fc5d7c11-6a1f-458d-9e3e-dd6e1624363e_1514x1152.png)
 
-](https://substackcdn.com/image/fetch/$s_!Da2e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc5d7c11-6a1f-458d-9e3e-dd6e1624363e_1514x1152.png)
+](./imgs/fc5d7c11-6a1f-458d-9e3e-dd6e1624363e_1514x1152.png)
 
 Source: SemiAnalysis
 
@@ -211,9 +211,9 @@ Recently, a benchmark has been floating around the internet that claims that, on
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!jicB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5ff26d-c895-43ee-b940-a7ef197c4ca7_1024x548.png)
+![](./imgs/2a5ff26d-c895-43ee-b940-a7ef197c4ca7_1024x548.png)
 
-](https://substackcdn.com/image/fetch/$s_!jicB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5ff26d-c895-43ee-b940-a7ef197c4ca7_1024x548.png)
+](./imgs/2a5ff26d-c895-43ee-b940-a7ef197c4ca7_1024x548.png)
 
 Source: Github
 
@@ -221,9 +221,9 @@ There are two main issues with the benchmark: it isn’t properly carrying out L
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!vY4j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9127f13-583a-4b0a-8037-a96876eeed4f_1470x880.png)
+![](./imgs/a9127f13-583a-4b0a-8037-a96876eeed4f_1470x880.png)
 
-](https://substackcdn.com/image/fetch/$s_!vY4j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9127f13-583a-4b0a-8037-a96876eeed4f_1470x880.png)
+](./imgs/a9127f13-583a-4b0a-8037-a96876eeed4f_1470x880.png)
 
 Source: SemiAnalysis
 
@@ -235,9 +235,9 @@ From our HBM memory bandwidth benchmarking, we see that that MI300X indeed has w
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!mD2z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05fdf265-ecae-494e-bbd2-24b191d24768_1600x1114.png)
+![](./imgs/05fdf265-ecae-494e-bbd2-24b191d24768_1600x1114.png)
 
-](https://substackcdn.com/image/fetch/$s_!mD2z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05fdf265-ecae-494e-bbd2-24b191d24768_1600x1114.png)
+](./imgs/05fdf265-ecae-494e-bbd2-24b191d24768_1600x1114.png)
 
 Source: SemiAnalysis
 
@@ -247,17 +247,17 @@ When using public PyTorch, users have the choice of working with the latest stab
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!xMmH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26876a7b-8446-4e9f-b543-510bdc8d1921_3680x7420.png)
+![](./imgs/26876a7b-8446-4e9f-b543-510bdc8d1921_3680x7420.png)
 
-](https://substackcdn.com/image/fetch/$s_!xMmH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26876a7b-8446-4e9f-b543-510bdc8d1921_3680x7420.png)
+](./imgs/26876a7b-8446-4e9f-b543-510bdc8d1921_3680x7420.png)
 
 Source: SemiAnalysis, AMD
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!81gK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6da81937-1fa0-40fa-854d-fb8c74e815c6_1024x453.png)
+![](./imgs/6da81937-1fa0-40fa-854d-fb8c74e815c6_1024x453.png)
 
-](https://substackcdn.com/image/fetch/$s_!81gK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6da81937-1fa0-40fa-854d-fb8c74e815c6_1024x453.png)
+](./imgs/6da81937-1fa0-40fa-854d-fb8c74e815c6_1024x453.png)
 
 Source: Nvidia
 
@@ -267,9 +267,9 @@ Until a couple weeks ago, the AMD docker images only supported PyTorch 2.3, whic
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!6Sr4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09f56f85-cc14-47e0-9232-28e145214702_2057x1098.png)
+![](./imgs/09f56f85-cc14-47e0-9232-28e145214702_2057x1098.png)
 
-](https://substackcdn.com/image/fetch/$s_!6Sr4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09f56f85-cc14-47e0-9232-28e145214702_2057x1098.png)
+](./imgs/09f56f85-cc14-47e0-9232-28e145214702_2057x1098.png)
 
 Source: Nvidia
 
@@ -283,9 +283,9 @@ That being said, we are including these development build results as it is an in
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!Ud_A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24add0ee-f573-47e2-b9b6-81fbc1ba812d_3680x5640.png)
+![](./imgs/24add0ee-f573-47e2-b9b6-81fbc1ba812d_3680x5640.png)
 
-](https://substackcdn.com/image/fetch/$s_!Ud_A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24add0ee-f573-47e2-b9b6-81fbc1ba812d_3680x5640.png)
+](./imgs/24add0ee-f573-47e2-b9b6-81fbc1ba812d_3680x5640.png)
 
 Source: SemiAnalysis, AMD
 
@@ -303,9 +303,9 @@ A Modern GPT/Llama/Transformer model is built by stacking the same transformer l
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!pMnX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6177898-4068-4f94-976e-fe116180e7de_502x1141.png)
+![](./imgs/e6177898-4068-4f94-976e-fe116180e7de_502x1141.png)
 
-](https://substackcdn.com/image/fetch/$s_!pMnX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6177898-4068-4f94-976e-fe116180e7de_502x1141.png)
+](./imgs/e6177898-4068-4f94-976e-fe116180e7de_502x1141.png)
 
 Source: Imgur
 
@@ -313,9 +313,9 @@ Furthermore, in modern LLM training for all frontier LLM models, pipeline parall
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!tOJY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7481b615-82be-41dc-931b-47cc8e70428d_2150x735.png)
+![](./imgs/7481b615-82be-41dc-931b-47cc8e70428d_2150x735.png)
 
-](https://substackcdn.com/image/fetch/$s_!tOJY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7481b615-82be-41dc-931b-47cc8e70428d_2150x735.png)
+](./imgs/7481b615-82be-41dc-931b-47cc8e70428d_2150x735.png)
 
 Source: SemiAnalysis
 
@@ -335,9 +335,9 @@ For the Dec 21st MI300X internal WIP development branches build, we still see i
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!FHsh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c239ab5-1c2d-4303-8527-84498ef66c71_1491x1180.png)
+![](./imgs/8c239ab5-1c2d-4303-8527-84498ef66c71_1491x1180.png)
 
-](https://substackcdn.com/image/fetch/$s_!FHsh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c239ab5-1c2d-4303-8527-84498ef66c71_1491x1180.png)
+](./imgs/8c239ab5-1c2d-4303-8527-84498ef66c71_1491x1180.png)
 
 Source: SemiAnalysis
 
@@ -351,9 +351,9 @@ Unfortunately, FP8 training on AMD only works on custom images such as our Novem
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!bj9H!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ec9137f-add4-46d0-98b4-68050db8a439_1491x1181.png)
+![](./imgs/1ec9137f-add4-46d0-98b4-68050db8a439_1491x1181.png)
 
-](https://substackcdn.com/image/fetch/$s_!bj9H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ec9137f-add4-46d0-98b4-68050db8a439_1491x1181.png)
+](./imgs/1ec9137f-add4-46d0-98b4-68050db8a439_1491x1181.png)
 
 Source: SemiAnalysis
 
@@ -383,9 +383,9 @@ First, MI300X’s xGMI is a point-to-point fabric, which means that it isn’t 
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!uQmX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ac85f6f-0fa0-4f51-be6b-88662b666680_1455x1147.png)
+![](./imgs/4ac85f6f-0fa0-4f51-be6b-88662b666680_1455x1147.png)
 
-](https://substackcdn.com/image/fetch/$s_!uQmX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ac85f6f-0fa0-4f51-be6b-88662b666680_1455x1147.png)
+](./imgs/4ac85f6f-0fa0-4f51-be6b-88662b666680_1455x1147.png)
 
 Source: SemiAnalysis
 
@@ -393,9 +393,9 @@ In contrast, since Nvidia’s NVLink uses a switched topography, one GPU can tal
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!mEap!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77daa464-4fde-4e19-a96b-0b6195f59b82_2172x743.png)
+![](./imgs/77daa464-4fde-4e19-a96b-0b6195f59b82_2172x743.png)
 
-](https://substackcdn.com/image/fetch/$s_!mEap!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77daa464-4fde-4e19-a96b-0b6195f59b82_2172x743.png)
+](./imgs/77daa464-4fde-4e19-a96b-0b6195f59b82_2172x743.png)
 
 Source: SemiAnalysis
 
@@ -405,17 +405,17 @@ Due to the way that compute-communication overlapping works, real-world message 
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!eW8o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff528ea53-0b8c-4dff-8a48-c89ba475be2b_2259x1357.png)
+![](./imgs/f528ea53-0b8c-4dff-8a48-c89ba475be2b_2259x1357.png)
 
-](https://substackcdn.com/image/fetch/$s_!eW8o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff528ea53-0b8c-4dff-8a48-c89ba475be2b_2259x1357.png)
+](./imgs/f528ea53-0b8c-4dff-8a48-c89ba475be2b_2259x1357.png)
 
 Source: DeepSpeed
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!qs_n!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F515beda1-3436-4319-8759-e74590c3530a_2206x1165.png)
+![](./imgs/515beda1-3436-4319-8759-e74590c3530a_2206x1165.png)
 
-](https://substackcdn.com/image/fetch/$s_!qs_n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F515beda1-3436-4319-8759-e74590c3530a_2206x1165.png)
+](./imgs/515beda1-3436-4319-8759-e74590c3530a_2206x1165.png)
 
 Source: Meta
 
@@ -423,33 +423,33 @@ We see that Nvidia does much better than AMD across all the real-world messages 
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!ipmr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe08fabf-8ed6-4405-ab0d-2b700f7ea5b7_1725x1216.png)
+![](./imgs/fe08fabf-8ed6-4405-ab0d-2b700f7ea5b7_1725x1216.png)
 
-](https://substackcdn.com/image/fetch/$s_!ipmr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe08fabf-8ed6-4405-ab0d-2b700f7ea5b7_1725x1216.png)
-
-Source: SemiAnalysis
-
-[
-
-![](https://substackcdn.com/image/fetch/$s_!YjGK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf7610d4-3246-4dda-a955-81c0b48d5613_1592x1147.png)
-
-](https://substackcdn.com/image/fetch/$s_!YjGK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf7610d4-3246-4dda-a955-81c0b48d5613_1592x1147.png)
+](./imgs/fe08fabf-8ed6-4405-ab0d-2b700f7ea5b7_1725x1216.png)
 
 Source: SemiAnalysis
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!C3Qt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06bb258-12dc-4f75-97ec-9d2a08347d0d_1593x1134.png)
+![](./imgs/af7610d4-3246-4dda-a955-81c0b48d5613_1592x1147.png)
 
-](https://substackcdn.com/image/fetch/$s_!C3Qt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06bb258-12dc-4f75-97ec-9d2a08347d0d_1593x1134.png)
+](./imgs/af7610d4-3246-4dda-a955-81c0b48d5613_1592x1147.png)
 
 Source: SemiAnalysis
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!e3jw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71df6db8-d62f-4f91-ae6c-78c1d08b6082_1594x1168.png)
+![](./imgs/a06bb258-12dc-4f75-97ec-9d2a08347d0d_1593x1134.png)
 
-](https://substackcdn.com/image/fetch/$s_!e3jw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71df6db8-d62f-4f91-ae6c-78c1d08b6082_1594x1168.png)
+](./imgs/a06bb258-12dc-4f75-97ec-9d2a08347d0d_1593x1134.png)
+
+Source: SemiAnalysis
+
+[
+
+![](./imgs/71df6db8-d62f-4f91-ae6c-78c1d08b6082_1594x1168.png)
+
+](./imgs/71df6db8-d62f-4f91-ae6c-78c1d08b6082_1594x1168.png)
 
 Source: SemiAnalysis
 
@@ -457,9 +457,9 @@ To reproduce this test, you can use our open source ClusterMax-NCCL/RCCL benchma
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!lB2M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F009fda89-6efa-4a29-a2dc-c55c6d8de066_3496x1568.png)
+![](./imgs/009fda89-6efa-4a29-a2dc-c55c6d8de066_3496x1568.png)
 
-](https://substackcdn.com/image/fetch/$s_!lB2M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F009fda89-6efa-4a29-a2dc-c55c6d8de066_3496x1568.png)
+](./imgs/009fda89-6efa-4a29-a2dc-c55c6d8de066_3496x1568.png)
 
 Source: SemiAnalysis
 
@@ -467,9 +467,9 @@ On both Nvidia’s H100/H200 and the MI300X, each GPU is connected to other node
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!ReH2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F003120b8-0c44-4463-b289-549993ea52cc_1100x624.png)
+![](./imgs/003120b8-0c44-4463-b289-549993ea52cc_1100x624.png)
 
-](https://substackcdn.com/image/fetch/$s_!ReH2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F003120b8-0c44-4463-b289-549993ea52cc_1100x624.png)
+](./imgs/003120b8-0c44-4463-b289-549993ea52cc_1100x624.png)
 
 Source: Nvidia
 
@@ -477,9 +477,9 @@ A typical GPU cluster almost always requires more layers than a single tier netw
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!zE-8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ba221b3-91a8-43ae-b321-d63d0d42bb5c_1614x781.png)
+![](./imgs/1ba221b3-91a8-43ae-b321-d63d0d42bb5c_1614x781.png)
 
-](https://substackcdn.com/image/fetch/$s_!zE-8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ba221b3-91a8-43ae-b321-d63d0d42bb5c_1614x781.png)
+](./imgs/1ba221b3-91a8-43ae-b321-d63d0d42bb5c_1614x781.png)
 
 Source: SemiAnalysis
 
@@ -495,9 +495,9 @@ Below we show a 32 GPU all reduce collective test. You can see that MI300X RoCEv
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!_J8R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a00702-0524-4521-b8d5-50b6356cca42_1594x1203.png)
+![](./imgs/09a00702-0524-4521-b8d5-50b6356cca42_1594x1203.png)
 
-](https://substackcdn.com/image/fetch/$s_!_J8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a00702-0524-4521-b8d5-50b6356cca42_1594x1203.png)
+](./imgs/09a00702-0524-4521-b8d5-50b6356cca42_1594x1203.png)
 
 Source: SemiAnalysis
 
@@ -513,9 +513,9 @@ Another trend to notice is that for non-SHARP networks, all reduce collective’
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!YA5D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8577baae-b3f0-4fb9-b48d-84af6d4855bf_1473x1153.png)
+![](./imgs/8577baae-b3f0-4fb9-b48d-84af6d4855bf_1473x1153.png)
 
-](https://substackcdn.com/image/fetch/$s_!YA5D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8577baae-b3f0-4fb9-b48d-84af6d4855bf_1473x1153.png)
+](./imgs/8577baae-b3f0-4fb9-b48d-84af6d4855bf_1473x1153.png)
 
 Source: SemiAnalysis
 
@@ -523,25 +523,25 @@ For all gather, all to all, and reduce scatter collectives, MI300X is anywhere f
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!Sgry!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27e21f6c-7eac-418f-8c68-095a30b28f1d_1670x1250.jpeg)
+![](./imgs/27e21f6c-7eac-418f-8c68-095a30b28f1d_1670x1250.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!Sgry!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27e21f6c-7eac-418f-8c68-095a30b28f1d_1670x1250.jpeg)
-
-Source: SemiAnalysis
-
-[
-
-![](https://substackcdn.com/image/fetch/$s_!Fhf1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2ce4511-0ba1-4935-99f1-027c1ac56ca1_1720x1221.png)
-
-](https://substackcdn.com/image/fetch/$s_!Fhf1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2ce4511-0ba1-4935-99f1-027c1ac56ca1_1720x1221.png)
+](./imgs/27e21f6c-7eac-418f-8c68-095a30b28f1d_1670x1250.jpeg)
 
 Source: SemiAnalysis
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!DQvs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8baeab3c-61d2-44ec-a466-96c7e5c8496d_1723x1219.png)
+![](./imgs/d2ce4511-0ba1-4935-99f1-027c1ac56ca1_1720x1221.png)
 
-](https://substackcdn.com/image/fetch/$s_!DQvs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8baeab3c-61d2-44ec-a466-96c7e5c8496d_1723x1219.png)
+](./imgs/d2ce4511-0ba1-4935-99f1-027c1ac56ca1_1720x1221.png)
+
+Source: SemiAnalysis
+
+[
+
+![](./imgs/8baeab3c-61d2-44ec-a466-96c7e5c8496d_1723x1219.png)
+
+](./imgs/8baeab3c-61d2-44ec-a466-96c7e5c8496d_1723x1219.png)
 
 Source: SemiAnalysis
 
@@ -553,9 +553,9 @@ Due to poor internal testing (i.e. “dogfooding”) and a lack of automated tes
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!OaLo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F358ec78a-dd8b-4604-a58c-d76c25837e2a_1481x209.png)
+![](./imgs/358ec78a-dd8b-4604-a58c-d76c25837e2a_1481x209.png)
 
-](https://substackcdn.com/image/fetch/$s_!OaLo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F358ec78a-dd8b-4604-a58c-d76c25837e2a_1481x209.png)
+](./imgs/358ec78a-dd8b-4604-a58c-d76c25837e2a_1481x209.png)
 
 Source: SemiAnalysis
 
@@ -563,9 +563,9 @@ Another issue we encountered was that the AMD PyTorch attention layer led to a h
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!vKh4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39607c82-c678-4bae-8963-bcdfa8141049_890x453.png)
+![](./imgs/39607c82-c678-4bae-8963-bcdfa8141049_890x453.png)
 
-](https://substackcdn.com/image/fetch/$s_!vKh4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39607c82-c678-4bae-8963-bcdfa8141049_890x453.png)
+](./imgs/39607c82-c678-4bae-8963-bcdfa8141049_890x453.png)
 
 Source: SemiAnalysis
 
@@ -573,17 +573,17 @@ On August 8th, Horace He and the Meta PyTorch Team released [FlexAttention](htt
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!EDdS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9dbce6b-eefc-40ca-b6f2-753e47118714_437x357.png)
+![](./imgs/d9dbce6b-eefc-40ca-b6f2-753e47118714_437x357.png)
 
-](https://substackcdn.com/image/fetch/$s_!EDdS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9dbce6b-eefc-40ca-b6f2-753e47118714_437x357.png)
+](./imgs/d9dbce6b-eefc-40ca-b6f2-753e47118714_437x357.png)
 
 Source: SemiAnalysis
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!-auV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59da3049-f7e0-419a-802f-4d2bbb774477_1600x1459.jpeg)
+![](./imgs/59da3049-f7e0-419a-802f-4d2bbb774477_1600x1459.jpeg)
 
-](https://substackcdn.com/image/fetch/$s_!-auV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59da3049-f7e0-419a-802f-4d2bbb774477_1600x1459.jpeg)
+](./imgs/59da3049-f7e0-419a-802f-4d2bbb774477_1600x1459.jpeg)
 
 Source: Meta
 
@@ -591,9 +591,9 @@ With sliding window attention, FlexAttention can improve performance by 10-20x! 
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!S1F-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6388946a-2f1b-4006-b084-03b863949371_1475x1009.png)
+![](./imgs/6388946a-2f1b-4006-b084-03b863949371_1475x1009.png)
 
-](https://substackcdn.com/image/fetch/$s_!S1F-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6388946a-2f1b-4006-b084-03b863949371_1475x1009.png)
+](./imgs/6388946a-2f1b-4006-b084-03b863949371_1475x1009.png)
 
 Source: SemiAnalysis
 
@@ -603,9 +603,9 @@ When we tried PYTORCH\_ TUNABLE\_OPS on AMD, it led to an HBM memory leak of ove
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!sAmf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa877f575-f237-4fde-8fa4-996f8180bf49_1024x540.png)
+![](./imgs/a877f575-f237-4fde-8fa4-996f8180bf49_1024x540.png)
 
-](https://substackcdn.com/image/fetch/$s_!sAmf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa877f575-f237-4fde-8fa4-996f8180bf49_1024x540.png)
+](./imgs/a877f575-f237-4fde-8fa4-996f8180bf49_1024x540.png)
 
 Source: PyTorch/AMD
 
@@ -615,9 +615,9 @@ Another issue is that certain AMD ROCm libraries could not be installed inside D
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!gvQ8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd46c3ac7-7cdd-4e97-ad4d-d7c7f1fd3d0a_3496x1300.png)
+![](./imgs/d46c3ac7-7cdd-4e97-ad4d-d7c7f1fd3d0a_3496x1300.png)
 
-](https://substackcdn.com/image/fetch/$s_!gvQ8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd46c3ac7-7cdd-4e97-ad4d-d7c7f1fd3d0a_3496x1300.png)
+](./imgs/d46c3ac7-7cdd-4e97-ad4d-d7c7f1fd3d0a_3496x1300.png)
 
 Source: SemiAnalysis
 
@@ -625,9 +625,9 @@ Many of AMD’s libraries are forked off Nvidia’s open-source or ecosystem lib
 
 [
 
-![](https://substackcdn.com/image/fetch/$s_!pKsS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25b16d02-fbc7-4a54-b31f-42573d8784e3_1024x330.png)
+![](./imgs/25b16d02-fbc7-4a54-b31f-42573d8784e3_1024x330.png)
 
-](https://substackcdn.com/image/fetch/$s_!pKsS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25b16d02-fbc7-4a54-b31f-42573d8784e3_1024x330.png)
+](./imgs/25b16d02-fbc7-4a54-b31f-42573d8784e3_1024x330.png)
 
 Source: SemiAnalysis
 
